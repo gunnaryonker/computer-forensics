@@ -1,0 +1,2 @@
+CYBER 742
+Computer forensics involves the preservation, identification, extraction and documentation of evidence stored on a computer. This course covers both the principles and practices of computer forensics that include data acquisition and data recovery; volume analysis; file system analysis; network forensics; evidence hiding and steganography; tools and techniques for investigating computer intrusions; scripting for forensics; and the legal and ethical implications.
