@@ -1,0 +1,3 @@
+SHA1 hash of DESKTOP-VT2D789_mem.all.raw:
+d4cfe8b74de0e401f29f6508f5e409e4d0744a24
+CertUtil: -hashfile command completed successfully.

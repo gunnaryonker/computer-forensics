@@ -1,0 +1,3 @@
+SHA1 hash of DESKTOP-VT2D789_KAPE-cap.zip:
+0d8b38b972b470d1c2f4a7c3627ac2897d152341
+CertUtil: -hashfile command completed successfully.

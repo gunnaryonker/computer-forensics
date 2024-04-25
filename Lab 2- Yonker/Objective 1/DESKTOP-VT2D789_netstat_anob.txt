@@ -1,0 +1,169 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State           PID
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       868
+  RpcSs
+ [svchost.exe]
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING       4440
+  CDPSvc
+ [svchost.exe]
+  TCP    0.0.0.0:7680           0.0.0.0:0              LISTENING       6692
+ Can not obtain ownership information
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING       648
+ [lsass.exe]
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING       496
+ Can not obtain ownership information
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING       1068
+  EventLog
+ [svchost.exe]
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING       1060
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING       2228
+ [spoolsv.exe]
+  TCP    0.0.0.0:49669          0.0.0.0:0              LISTENING       632
+ Can not obtain ownership information
+  TCP    10.0.2.15:139          0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    10.0.2.15:49674        52.159.127.243:443     ESTABLISHED     2732
+  WpnService
+ [svchost.exe]
+  TCP    10.0.2.15:49861        52.159.127.243:443     ESTABLISHED     2732
+  WpnService
+ [svchost.exe]
+  TCP    10.0.2.15:49873        52.159.127.243:443     ESTABLISHED     3904
+ [OneDrive.exe]
+  TCP    10.0.2.15:49975        72.21.91.29:80         CLOSE_WAIT      1512
+ [wwahost.exe]
+  TCP    10.0.2.15:49981        23.64.114.137:443      CLOSE_WAIT      1512
+ [wwahost.exe]
+  TCP    10.0.2.15:49982        23.64.114.137:443      CLOSE_WAIT      1512
+ [wwahost.exe]
+  TCP    10.0.2.15:49983        23.64.114.137:443      CLOSE_WAIT      1512
+ [wwahost.exe]
+  TCP    10.0.2.15:49984        23.64.114.137:443      CLOSE_WAIT      1512
+ [wwahost.exe]
+  TCP    10.0.2.15:49985        23.64.114.137:443      CLOSE_WAIT      1512
+ [wwahost.exe]
+  TCP    10.0.2.15:49986        23.64.114.137:443      CLOSE_WAIT      1512
+ [wwahost.exe]
+  TCP    10.0.2.15:49991        23.213.53.26:443       CLOSE_WAIT      1512
+ [wwahost.exe]
+  TCP    10.0.2.15:49992        23.213.53.26:443       CLOSE_WAIT      1512
+ [wwahost.exe]
+  TCP    10.0.2.15:50021        72.21.91.29:80         CLOSE_WAIT      1512
+ [wwahost.exe]
+  TCP    10.0.2.15:50030        20.42.73.26:443        CLOSE_WAIT      1512
+ [wwahost.exe]
+  TCP    10.0.2.15:50033        20.112.56.82:443       CLOSE_WAIT      1512
+ [wwahost.exe]
+  TCP    10.0.2.15:50426        146.75.81.44:443       TIME_WAIT       0
+  TCP    10.0.2.15:50446        185.199.110.133:443    ESTABLISHED     6072
+ [msedge.exe]
+  TCP    10.0.2.15:50447        185.199.109.154:443    ESTABLISHED     6072
+ [msedge.exe]
+  TCP    10.0.2.15:50454        185.199.109.154:443    ESTABLISHED     6072
+ [msedge.exe]
+  TCP    10.0.2.15:50473        52.154.245.177:443     CLOSE_WAIT      8592
+ [SystemSettings.exe]
+  TCP    10.0.2.15:50507        23.48.99.69:443        CLOSE_WAIT      5972
+ [SearchApp.exe]
+  TCP    10.0.2.15:50508        72.21.91.29:80         CLOSE_WAIT      5972
+ [SearchApp.exe]
+  TCP    10.0.2.15:50510        20.189.173.14:443      TIME_WAIT       0
+  TCP    10.0.2.15:50516        72.21.91.29:80         TIME_WAIT       0
+  TCP    10.0.2.15:50527        104.18.24.243:80       ESTABLISHED     9472
+ [SkypeApp.exe]
+  TCP    10.0.2.15:50530        104.46.162.224:443     TIME_WAIT       0
+  TCP    10.0.2.15:50531        20.190.4.251:443       TIME_WAIT       0
+  TCP    10.0.2.15:50534        104.46.162.224:443     TIME_WAIT       0
+  TCP    10.0.2.15:50535        204.79.197.200:443     ESTABLISHED     6072
+ [msedge.exe]
+  TCP    10.0.2.15:50536        20.189.173.11:443      ESTABLISHED     9472
+ [SkypeApp.exe]
+  TCP    10.0.2.15:50537        72.21.91.29:80         ESTABLISHED     9472
+ [SkypeApp.exe]
+  TCP    10.0.2.15:50538        131.253.33.203:80      ESTABLISHED     9472
+ [SkypeApp.exe]
+  TCP    10.0.2.15:50539        104.46.162.224:443     ESTABLISHED     9472
+ [SkypeApp.exe]
+  TCP    [::]:135               [::]:0                 LISTENING       868
+  RpcSs
+ [svchost.exe]
+  TCP    [::]:445               [::]:0                 LISTENING       4
+ Can not obtain ownership information
+  TCP    [::]:7680              [::]:0                 LISTENING       6692
+ Can not obtain ownership information
+  TCP    [::]:49664             [::]:0                 LISTENING       648
+ [lsass.exe]
+  TCP    [::]:49665             [::]:0                 LISTENING       496
+ Can not obtain ownership information
+  TCP    [::]:49666             [::]:0                 LISTENING       1068
+  EventLog
+ [svchost.exe]
+  TCP    [::]:49667             [::]:0                 LISTENING       1060
+  Schedule
+ [svchost.exe]
+  TCP    [::]:49668             [::]:0                 LISTENING       2228
+ [spoolsv.exe]
+  TCP    [::]:49669             [::]:0                 LISTENING       632
+ Can not obtain ownership information
+  UDP    0.0.0.0:5050           *:*                                    4440
+  CDPSvc
+ [svchost.exe]
+  UDP    0.0.0.0:5353           *:*                                    7952
+ [msedge.exe]
+  UDP    0.0.0.0:5353           *:*                                    2020
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:5353           *:*                                    7952
+ [msedge.exe]
+  UDP    0.0.0.0:5355           *:*                                    2020
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:51862          *:*                                    9472
+ [SkypeApp.exe]
+  UDP    10.0.2.15:137          *:*                                    4
+ Can not obtain ownership information
+  UDP    10.0.2.15:138          *:*                                    4
+ Can not obtain ownership information
+  UDP    10.0.2.15:1900         *:*                                    8612
+  SSDPSRV
+ [svchost.exe]
+  UDP    10.0.2.15:62691        *:*                                    8612
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:1900         *:*                                    8612
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:51586        *:*                                    2788
+  iphlpsvc
+ [svchost.exe]
+  UDP    127.0.0.1:62692        *:*                                    8612
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::]:5353              *:*                                    2020
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:5353              *:*                                    7952
+ [msedge.exe]
+  UDP    [::]:5355              *:*                                    2020
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:51862             *:*                                    9472
+ [SkypeApp.exe]
+  UDP    [::1]:1900             *:*                                    8612
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::1]:62690            *:*                                    8612
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::3472:d19a:8fa7:90c9%4]:1900  *:*                                    8612
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::3472:d19a:8fa7:90c9%4]:62689  *:*                                    8612
+  SSDPSRV
+ [svchost.exe]

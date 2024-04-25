@@ -1,0 +1,81 @@
+﻿SourceFile,SourceFileSha1,Reason
+C:\Users\gunna\AppData\Local\Microsoft\OneDrive\logs\ListSync\Business1\DeviceHealthSummaryConfiguration.ini,F4FFD75641D4568194592FDFFE46D77C20AC96DA,Deduped
+C:\Users\gunna\AppData\Local\Microsoft\OneDrive\logs\ListSync\Business1\telemetry-dll-ramp-value.txt,696B6066D40648E94D886791EAB318A3D31C17C8,Deduped
+C:\Users\gunna\AppData\Local\Microsoft\OneDrive\settings\Personal\logUploaderSettings_temp.ini,BA2389FB7A9D2AF022A32C2E970CAD81EF9FF9C3,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-Audio%4PlaybackManager.evtx,B5A6155E744701D266AF0D26A128AF58B146DF8C,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-ModernDeployment-Diagnostics-Provider%4Diagnostics.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-MUI%4Admin.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-Security-Mitigations%4UserMode.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\SRU\SRUres00002.jrs,1ADC95BEBE9EEA8C112D40CD04AB7A8D75C4F961,Deduped
+C:\Windows\System32\SRU\SRUtmp.log,1ADC95BEBE9EEA8C112D40CD04AB7A8D75C4F961,Deduped
+C:\Users\gunna\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\Settings\roaming.lock,DA39A3EE5E6B4B0D3255BFEF95601890AFD80709,Deduped
+C:\Users\gunna\AppData\Local\Microsoft\Edge\User Data\Default\Bookmarks.msbak,BC857B74E37A1B3C1994D26A802728E5BDE0247F,Deduped
+C:\Users\gunna\AppData\Local\Microsoft\Edge\User Data\Default\Top Sites-journal,DA39A3EE5E6B4B0D3255BFEF95601890AFD80709,Deduped
+C:\Users\gunna\AppData\Local\Microsoft\Internet Explorer\CacheStorage\.inUse,DA39A3EE5E6B4B0D3255BFEF95601890AFD80709,Deduped
+C:\Users\gunna\AppData\Local\Microsoft\Internet Explorer\CacheStorage\edbres00002.jrs,6A521E1D2A632C26E53B83D2CC4B0EDECFC1E68C,Deduped
+C:\Users\gunna\AppData\Local\Microsoft\Internet Explorer\Indexed DB\EDGE\edbres00001.jrs,6A521E1D2A632C26E53B83D2CC4B0EDECFC1E68C,Deduped
+C:\Users\gunna\AppData\Local\Microsoft\Internet Explorer\Indexed DB\EDGE\edbres00002.jrs,6A521E1D2A632C26E53B83D2CC4B0EDECFC1E68C,Deduped
+C:\Users\gunna\AppData\Local\Microsoft\Internet Explorer\Indexed DB\EDGE\edbtmp.log,6A521E1D2A632C26E53B83D2CC4B0EDECFC1E68C,Deduped
+C:\Users\gunna\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\desktop.ini,1E2F6397843C518728AFFEB462127D70EAB34E91,Deduped
+C:\Users\gunna\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\Shows Desktop.lnk,50B633A4CA28210CA882467CBC0D717D3283AC75,Deduped
+C:\Users\gunna\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\Window Switcher.lnk,B118670620D7214224C7ED2DC14EE67D7A49C044,Deduped
+C:\Users\gunna\AppData\Local\Microsoft\Windows\History\History.IE5\container.dat,DA39A3EE5E6B4B0D3255BFEF95601890AFD80709,Deduped
+C:\Users\gunna\AppData\Local\Microsoft\Windows\History\History.IE5\MSHist012023013020230206\container.dat,DA39A3EE5E6B4B0D3255BFEF95601890AFD80709,Deduped
+C:\Users\gunna\AppData\Local\Microsoft\Windows\History\History.IE5\MSHist012023021120230212\container.dat,DA39A3EE5E6B4B0D3255BFEF95601890AFD80709,Deduped
+C:\Users\gunna\AppData\Local\Microsoft\Windows\WebCache\V01res00001.jrs,6A521E1D2A632C26E53B83D2CC4B0EDECFC1E68C,Deduped
+C:\Users\gunna\AppData\Local\Microsoft\Windows\WebCache\V01res00002.jrs,6A521E1D2A632C26E53B83D2CC4B0EDECFC1E68C,Deduped
+C:\Users\gunna\AppData\Local\Microsoft\Windows\INetCookies\ESE\container.dat,DA39A3EE5E6B4B0D3255BFEF95601890AFD80709,Deduped
+C:\programdata\microsoft\search\data\applications\windows\edbres00002.jrs,3B71F43FF30F4B15B5CD85DD9E95EBC7E84EB5A3,Deduped
+C:\Windows\System32\winevt\Logs\Microsoft-Windows-Windows Defender%4WHC.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Users\gunna\AppData\Local\Microsoft\OneDrive\settings\Personal\downloads3.txt,DA39A3EE5E6B4B0D3255BFEF95601890AFD80709,Deduped
+C:\Users\gunna\AppData\Local\Microsoft\OneDrive\settings\Personal\SettingsDatabase.db,348A34223F9DDA82A833FAE382CFA7E4AA855C03,Deduped
+C:\Windows\System32\winevt\logs\HardwareEvents.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Internet Explorer.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Key Management Service.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-Application-Experience%4Program-Compatibility-Assistant.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-Application-Experience%4Program-Compatibility-Troubleshooter.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-Application-Experience%4Program-Inventory.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-Application-Experience%4Steps-Recorder.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-AppXDeploymentServer%4Restricted.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-Crypto-DPAPI%4BackUpKeySvc.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-Dhcpv6-Client%4Admin.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-FileHistory-Core%4WHC.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-HotspotAuth%4Operational.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-Kernel-Power%4Thermal-Operational.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-Kernel-StoreMgr%4Operational.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-Kernel-WHEA%4Errors.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-PowerShell%4Admin.evtx,B5A6155E744701D266AF0D26A128AF58B146DF8C,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-Program-Compatibility-Assistant%4CompatAfterUpgrade.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-Provisioning-Diagnostics-Provider%4AutoPilot.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-Provisioning-Diagnostics-Provider%4ManagementService.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-PushNotification-Platform%4Admin.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-RestartManager%4Operational.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-Shell-ConnectedAccountState%4ActionCenter.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-Shell-Core%4ActionCenter.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-Shell-Core%4LogonTasksChannel.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-SmbClient%4Audit.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-SMBClient%4Operational.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-SMBServer%4Audit.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-SMBServer%4Connectivity.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-SMBServer%4Security.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-StateRepository%4Restricted.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-StorageSpaces-Driver%4Diagnostic.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-StorageSpaces-ManagementAgent%4WHC.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-TerminalServices-LocalSessionManager%4Admin.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-UserPnp%4ActionCenter.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-Windows Firewall With Advanced Security%4ConnectionSecurity.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-Windows Firewall With Advanced Security%4FirewallDiagnostics.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-WorkFolders%4WHC.evtx,C70BFFF0A559AF8CB76AD80A504DD55BD6CC484D,Deduped
+C:\Windows\System32\winevt\logs\Microsoft-Windows-WPD-ClassInstaller%4Operational.evtx,B5A6155E744701D266AF0D26A128AF58B146DF8C,Deduped
+C:\Windows\System32\LogFiles\WMI\RtBackup\EtwRTDefenderAuditLogger.etl,0D0E47938F6E00166E7352732DDFB7C610F44DB2,Deduped
+C:\Windows\System32\LogFiles\WMI\RtBackup\EtwRTDiagtrack-Listener.etl,0D0E47938F6E00166E7352732DDFB7C610F44DB2,Deduped
+C:\Windows\System32\LogFiles\WMI\RtBackup\EtwRTEventlog-Security.etl,0D0E47938F6E00166E7352732DDFB7C610F44DB2,Deduped
+C:\Windows\System32\LogFiles\WMI\RtBackup\EtwRTSgrmEtwSession.etl,DA39A3EE5E6B4B0D3255BFEF95601890AFD80709,Deduped
+C:\Windows\System32\LogFiles\WMI\RtBackup\EtwRTUBPM.etl,0D0E47938F6E00166E7352732DDFB7C610F44DB2,Deduped
+C:\Windows\System32\LogFiles\WMI\RtBackup\EtwRTWFP-IPsec Diagnostics.etl,DA39A3EE5E6B4B0D3255BFEF95601890AFD80709,Deduped
+C:\$Extend\$RmMetadata\$TxfLog\$Tops:$T,3B71F43FF30F4B15B5CD85DD9E95EBC7E84EB5A3,Deduped
+C:\Windows\System32\config\SECURITY.LOG2,DA39A3EE5E6B4B0D3255BFEF95601890AFD80709,Deduped
+C:\Users\gunna\AppData\Local\Microsoft\Edge\User Data\Default\Favicons-journal,DA39A3EE5E6B4B0D3255BFEF95601890AFD80709,Deduped
+C:\Users\gunna\AppData\Local\Microsoft\Edge\User Data\Default\Shortcuts-journal,DA39A3EE5E6B4B0D3255BFEF95601890AFD80709,Deduped
+C:\Users\gunna\AppData\Local\Microsoft\Edge\User Data\Default\Web Data-journal,DA39A3EE5E6B4B0D3255BFEF95601890AFD80709,Deduped
+C:\Users\gunna\AppData\Local\Microsoft\Internet Explorer\CacheStorage\edbtmp.log,6A521E1D2A632C26E53B83D2CC4B0EDECFC1E68C,Deduped

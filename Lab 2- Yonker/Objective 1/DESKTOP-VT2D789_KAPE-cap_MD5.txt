@@ -1,0 +1,3 @@
+MD5 hash of DESKTOP-VT2D789_KAPE-cap.zip:
+c4efe6be7afdf2b568ef73c6d4efeab9
+CertUtil: -hashfile command completed successfully.

@@ -1,0 +1,3 @@
+MD5 hash of DESKTOP-VT2D789_mem.all.raw:
+0efc5e0f8dd4047edb62e8c269856441
+CertUtil: -hashfile command completed successfully.

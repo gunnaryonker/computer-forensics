@@ -1,0 +1,45 @@
+﻿Created By AccessData® FTK® Imager 4.7.1.2 
+
+Case Information: 
+Acquired using: ADI4.7.1.2
+Case Number: 23_0211
+Evidence Number: 23_0211_3
+Unique description: 23_0211_3
+Examiner: Yonker
+Notes: Memorex 32GB flash drive
+
+--------------------------------------------------------------
+
+Information for C:\Users\gunna\Desktop\23-0211_3\23_0211_3:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 3,773
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 60,628,992
+[Physical Drive Information]
+ Drive Model: Memorex USB Flash Drive USB Device
+ Drive Serial Number: 027912862
+ Drive Interface Type: USB
+ Removable drive: True
+ Source data size: 29604 MB
+ Sector count:    60628992
+[Computed Hashes]
+ MD5 checksum:    c7a5108ab98eda180be66d03db43225d
+ SHA1 checksum:   ef4216f2f03ef59d745f1ab359c34a08b4cfbc3d
+
+Image Information:
+ Acquisition started:   Sun Feb 11 15:16:00 2023
+ Acquisition finished:  Sun Feb 11 15:29:20 2023
+ Segment list:
+  C:\Users\gunna\Desktop\23-0211_3\23_0211_3.E01
+
+Image Verification Results:
+ Verification started:  Sun Feb 11 15:29:20 2023
+ Verification finished: Sun Feb 11 15:31:12 2023
+ MD5 checksum:    c7a5108ab98eda180be66d03db43225d : verified
+ SHA1 checksum:   ef4216f2f03ef59d745f1ab359c34a08b4cfbc3d : verified

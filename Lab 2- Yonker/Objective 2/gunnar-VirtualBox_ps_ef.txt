@@ -1,0 +1,227 @@
+UID          PID    PPID  C STIME TTY          TIME CMD
+root           1       0  0 14:52 ?        00:00:00 /sbin/init splash
+root           2       0  0 14:52 ?        00:00:00 [kthreadd]
+root           3       2  0 14:52 ?        00:00:00 [rcu_gp]
+root           4       2  0 14:52 ?        00:00:00 [rcu_par_gp]
+root           5       2  0 14:52 ?        00:00:00 [slub_flushwq]
+root           6       2  0 14:52 ?        00:00:00 [netns]
+root           8       2  0 14:52 ?        00:00:00 [kworker/0:0H-events_highpri]
+root          10       2  0 14:52 ?        00:00:00 [mm_percpu_wq]
+root          11       2  0 14:52 ?        00:00:00 [rcu_tasks_rude_]
+root          12       2  0 14:52 ?        00:00:00 [rcu_tasks_trace]
+root          13       2  0 14:52 ?        00:00:01 [ksoftirqd/0]
+root          14       2  0 14:52 ?        00:00:01 [rcu_sched]
+root          15       2  0 14:52 ?        00:00:00 [migration/0]
+root          16       2  0 14:52 ?        00:00:00 [idle_inject/0]
+root          18       2  0 14:52 ?        00:00:00 [cpuhp/0]
+root          19       2  0 14:52 ?        00:00:00 [kdevtmpfs]
+root          20       2  0 14:52 ?        00:00:00 [inet_frag_wq]
+root          21       2  0 14:52 ?        00:00:00 [kauditd]
+root          22       2  0 14:52 ?        00:00:00 [khungtaskd]
+root          23       2  0 14:52 ?        00:00:00 [oom_reaper]
+root          24       2  0 14:52 ?        00:00:00 [writeback]
+root          25       2  0 14:52 ?        00:00:01 [kcompactd0]
+root          26       2  0 14:52 ?        00:00:00 [ksmd]
+root          27       2  0 14:52 ?        00:00:00 [khugepaged]
+root          73       2  0 14:52 ?        00:00:00 [kintegrityd]
+root          74       2  0 14:52 ?        00:00:00 [kblockd]
+root          75       2  0 14:52 ?        00:00:00 [blkcg_punt_bio]
+root          76       2  0 14:52 ?        00:00:00 [tpm_dev_wq]
+root          77       2  0 14:52 ?        00:00:00 [ata_sff]
+root          78       2  0 14:52 ?        00:00:00 [md]
+root          79       2  0 14:52 ?        00:00:00 [edac-poller]
+root          80       2  0 14:52 ?        00:00:00 [devfreq_wq]
+root          81       2  0 14:52 ?        00:00:00 [watchdogd]
+root          83       2  0 14:52 ?        00:00:00 [kworker/0:1H-kblockd]
+root          85       2  0 14:52 ?        00:00:02 [kswapd0]
+root          86       2  0 14:52 ?        00:00:00 [ecryptfs-kthrea]
+root          88       2  0 14:52 ?        00:00:00 [kthrotld]
+root          89       2  0 14:52 ?        00:00:00 [acpi_thermal_pm]
+root          91       2  0 14:52 ?        00:00:00 [scsi_eh_0]
+root          92       2  0 14:52 ?        00:00:00 [scsi_tmf_0]
+root          93       2  0 14:52 ?        00:00:00 [scsi_eh_1]
+root          94       2  0 14:52 ?        00:00:00 [scsi_tmf_1]
+root          96       2  0 14:52 ?        00:00:00 [vfio-irqfd-clea]
+root          98       2  0 14:52 ?        00:00:00 [mld]
+root          99       2  0 14:52 ?        00:00:00 [ipv6_addrconf]
+root         109       2  0 14:52 ?        00:00:00 [kstrp]
+root         112       2  0 14:52 ?        00:00:00 [zswap-shrink]
+root         113       2  0 14:52 ?        00:00:00 [kworker/u3:0]
+root         118       2  0 14:52 ?        00:00:00 [charger_manager]
+root         161       2  0 14:52 ?        00:00:00 [scsi_eh_2]
+root         163       2  0 14:52 ?        00:00:00 [scsi_tmf_2]
+root         188       2  0 14:52 ?        00:00:00 [jbd2/sda3-8]
+root         189       2  0 14:52 ?        00:00:00 [ext4-rsv-conver]
+root         229       1  0 14:52 ?        00:00:00 /lib/systemd/systemd-journald
+root         260       1  0 14:52 ?        00:00:00 /lib/systemd/systemd-udevd
+root         262       2  0 14:52 ?        00:00:00 [ttm_swap]
+root         263       2  0 14:52 ?        00:00:00 [irq/18-vmwgfx]
+root         264       2  0 14:52 ?        00:00:00 [card0-crtc0]
+root         265       2  0 14:52 ?        00:00:00 [card0-crtc1]
+root         266       2  0 14:52 ?        00:00:00 [card0-crtc2]
+root         267       2  0 14:52 ?        00:00:00 [card0-crtc3]
+root         268       2  0 14:52 ?        00:00:00 [card0-crtc4]
+root         269       2  0 14:52 ?        00:00:00 [card0-crtc5]
+root         270       2  0 14:52 ?        00:00:00 [card0-crtc6]
+root         271       2  0 14:52 ?        00:00:00 [card0-crtc7]
+root         325       2  0 14:52 ?        00:00:00 [cryptd]
+systemd+     420       1  0 14:52 ?        00:00:08 /lib/systemd/systemd-oomd
+systemd+     421       1  0 14:52 ?        00:00:00 /lib/systemd/systemd-resolved
+systemd+     422       1  0 14:52 ?        00:00:00 /lib/systemd/systemd-timesyncd
+root         598       1  0 14:52 ?        00:00:00 /usr/libexec/accounts-daemon
+root         599       1  0 14:52 ?        00:00:00 /usr/sbin/acpid
+avahi        602       1  0 14:52 ?        00:00:00 avahi-daemon: running [gunnar-VirtualBox.local]
+root         603       1  0 14:52 ?        00:00:00 /usr/sbin/cron -f -P
+message+     604       1  0 14:52 ?        00:00:00 @dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+root         607       1  0 14:52 ?        00:00:00 /usr/sbin/NetworkManager --no-daemon
+root         622       1  0 14:52 ?        00:00:00 /usr/bin/python3 /usr/bin/networkd-dispatcher --run-startup-triggers
+root         627       1  0 14:52 ?        00:00:00 /usr/libexec/polkitd --no-debug
+root         628       1  0 14:52 ?        00:00:00 /usr/libexec/power-profiles-daemon
+syslog       629       1  0 14:52 ?        00:00:00 /usr/sbin/rsyslogd -n -iNONE
+root         633       1  0 14:52 ?        00:00:03 /usr/lib/snapd/snapd
+root         636       1  0 14:52 ?        00:00:00 /usr/libexec/switcheroo-control
+root         642       1  0 14:52 ?        00:00:00 /lib/systemd/systemd-logind
+root         647       1  0 14:52 ?        00:00:00 /usr/libexec/udisks2/udisksd
+root         649       1  0 14:52 ?        00:00:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+avahi        669     602  0 14:52 ?        00:00:00 avahi-daemon: chroot helper
+root         688       1  0 14:52 ?        00:00:00 /usr/sbin/ModemManager
+root         692       1  0 14:52 ?        00:00:00 /usr/sbin/cupsd -l
+lp           727     692  0 14:52 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+root         728       1  0 14:52 ?        00:00:00 /usr/sbin/gdm3
+root         736       1  0 14:52 ?        00:00:00 /usr/bin/python3 /usr/share/unattended-upgrades/unattended-upgrade-shutdown --wait-for-signal
+gunnar       760       1  0 14:52 ?        00:00:00 /lib/systemd/systemd --user
+gunnar       765     760  0 14:52 ?        00:00:00 (sd-pam)
+root         782       1  0 14:52 ?        00:00:00 /usr/sbin/cups-browsed
+kernoops     798       1  0 14:52 ?        00:00:00 /usr/sbin/kerneloops --test
+kernoops     803       1  0 14:52 ?        00:00:00 /usr/sbin/kerneloops
+gunnar       839     760  0 14:52 ?        00:00:00 /usr/bin/pipewire
+gunnar       840     760  0 14:52 ?        00:00:00 /usr/bin/pipewire-media-session
+rtkit        859       1  0 14:52 ?        00:00:00 /usr/libexec/rtkit-daemon
+root        1001     728  0 14:52 ?        00:00:00 gdm-session-worker [pam/gdm-autologin]
+gunnar      1024       1  0 14:52 ?        00:00:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+gunnar      1030    1001  0 14:52 tty2     00:00:00 /usr/libexec/gdm-x-session --run-script env GNOME_SHELL_SESSION_MODE=ubuntu /usr/bin/gnome-session --session=ubuntu
+gunnar      1032    1030  0 14:52 tty2     00:01:51 /usr/lib/xorg/Xorg vt2 -displayfd 3 -auth /run/user/1000/gdm/Xauthority -nolisten tcp -background none -noreset -keeptty -novtswitch -verbose 3
+root        1049       1  0 14:52 ?        00:00:00 /usr/libexec/upowerd
+gunnar      1078     760  0 14:52 ?        00:00:01 /usr/bin/dbus-daemon --session --address=systemd: --nofork --nopidfile --systemd-activation --syslog-only
+gunnar      1080     760  0 14:52 ?        00:00:00 /usr/libexec/gvfsd
+gunnar      1085     760  0 14:52 ?        00:00:00 /usr/libexec/gvfsd-fuse /run/user/1000/gvfs -f
+gunnar      1099    1030  0 14:52 tty2     00:00:00 /usr/libexec/gnome-session-binary --session=ubuntu
+gunnar      1169     760  0 14:52 ?        00:00:00 /usr/libexec/xdg-document-portal
+gunnar      1172     760  0 14:52 ?        00:00:00 /usr/libexec/xdg-permission-store
+root        1178    1169  0 14:52 ?        00:00:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+gunnar      1227     760  0 14:52 ?        00:00:00 /usr/libexec/at-spi-bus-launcher
+gunnar      1228     760  0 14:52 ?        00:00:01 /usr/libexec/tracker-miner-fs-3
+gunnar      1234    1227  0 14:52 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 11 --address=unix:path=/run/user/1000/at-spi/bus_0
+gunnar      1240     760  0 14:52 ?        00:00:00 /usr/libexec/gvfs-udisks2-volume-monitor
+gunnar      1246     760  0 14:52 ?        00:00:00 /usr/libexec/gvfs-goa-volume-monitor
+gunnar      1250     760  0 14:52 ?        00:00:00 /usr/libexec/goa-daemon
+gunnar      1259     760  0 14:52 ?        00:00:00 /usr/libexec/goa-identity-service
+gunnar      1261     760  0 14:52 ?        00:00:00 /usr/libexec/gvfs-afc-volume-monitor
+gunnar      1267     760  0 14:52 ?        00:00:00 /usr/libexec/gvfs-gphoto2-volume-monitor
+gunnar      1273     760  0 14:52 ?        00:00:00 /usr/libexec/gvfs-mtp-volume-monitor
+gunnar      1287     760  0 14:52 ?        00:00:00 /usr/libexec/gnome-session-ctl --monitor
+gunnar      1297     760  0 14:52 ?        00:00:00 /usr/libexec/gnome-session-binary --systemd-service --session=ubuntu
+gunnar      1315     760  1 14:52 ?        00:03:54 /usr/bin/gnome-shell
+gunnar      1459     760  0 14:52 ?        00:00:00 /usr/libexec/gnome-shell-calendar-server
+gunnar      1465     760  0 14:52 ?        00:00:00 /usr/libexec/evolution-source-registry
+gunnar      1475     760  0 14:52 ?        00:00:00 /usr/libexec/evolution-calendar-factory
+gunnar      1479     760  0 14:52 ?        00:00:00 /usr/bin/pulseaudio --daemonize=no --log-target=journal
+gunnar      1485     760  0 14:52 ?        00:00:00 /usr/libexec/dconf-service
+gunnar      1490     760  0 14:52 ?        00:00:00 /usr/libexec/evolution-addressbook-factory
+root        1510       1  0 14:52 ?        00:00:07 /usr/libexec/packagekitd
+gunnar      1517    1080  0 14:52 ?        00:00:00 /usr/libexec/gvfsd-trash --spawner :1.2 /org/gtk/gvfs/exec_spaw/0
+gunnar      1528     760  0 14:52 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.Shell.Notifications
+gunnar      1530     760  0 14:52 ?        00:00:00 /usr/libexec/at-spi2-registryd --use-gnome-session
+gunnar      1562     760  0 14:52 ?        00:00:00 /usr/libexec/xdg-desktop-portal
+gunnar      1573     760  0 14:52 ?        00:00:01 /usr/libexec/xdg-desktop-portal-gnome
+gunnar      1616     760  0 14:52 ?        00:00:00 sh -c /usr/bin/ibus-daemon --panel disable $([ "$XDG_SESSION_TYPE" = "x11" ] && echo "--xim")
+gunnar      1617     760  0 14:52 ?        00:00:00 /usr/libexec/gsd-a11y-settings
+gunnar      1620    1616  0 14:52 ?        00:00:00 /usr/bin/ibus-daemon --panel disable --xim
+gunnar      1628     760  0 14:52 ?        00:00:00 /usr/libexec/gsd-color
+gunnar      1629     760  0 14:52 ?        00:00:00 /usr/libexec/gsd-datetime
+gunnar      1632     760  0 14:52 ?        00:00:00 /usr/libexec/gsd-housekeeping
+gunnar      1633     760  0 14:52 ?        00:00:00 /usr/libexec/gsd-keyboard
+gunnar      1637     760  0 14:52 ?        00:00:00 /usr/libexec/gsd-media-keys
+gunnar      1639     760  0 14:52 ?        00:00:00 /usr/libexec/gsd-power
+gunnar      1640     760  0 14:52 ?        00:00:00 /usr/libexec/gsd-print-notifications
+gunnar      1642    1297  0 14:52 ?        00:00:00 /usr/libexec/gsd-disk-utility-notify
+gunnar      1643     760  0 14:52 ?        00:00:00 /usr/libexec/gsd-rfkill
+gunnar      1644     760  0 14:52 ?        00:00:00 /usr/libexec/gsd-screensaver-proxy
+gunnar      1651     760  0 14:52 ?        00:00:00 /usr/libexec/gsd-sharing
+gunnar      1654     760  0 14:52 ?        00:00:00 /usr/libexec/gsd-smartcard
+gunnar      1665     760  0 14:52 ?        00:00:00 /usr/libexec/gsd-sound
+gunnar      1668     760  0 14:52 ?        00:00:00 /usr/libexec/gsd-wacom
+gunnar      1672     760  0 14:52 ?        00:00:00 /usr/libexec/gsd-xsettings
+gunnar      1678    1620  0 14:52 ?        00:00:00 /usr/libexec/ibus-dconf
+gunnar      1681    1620  0 14:52 ?        00:00:01 /usr/libexec/ibus-extension-gtk3
+gunnar      1691     760  0 14:52 ?        00:00:00 /usr/libexec/ibus-x11 --kill-daemon
+gunnar      1695    1297  0 14:52 ?        00:00:00 /usr/libexec/evolution-data-server/evolution-alarm-notify
+gunnar      1699     760  0 14:52 ?        00:00:00 /usr/libexec/ibus-portal
+colord      1744       1  0 14:52 ?        00:00:00 /usr/libexec/colord
+gunnar      1754     760  0 14:52 ?        00:00:00 /usr/libexec/gsd-printer
+gunnar      1785     760  0 14:52 ?        00:00:00 /usr/bin/gjs /usr/share/gnome-shell/org.gnome.ScreenSaver
+gunnar      1804    1620  0 14:52 ?        00:00:00 /usr/libexec/ibus-engine-simple
+gunnar      1815     760  0 14:52 ?        00:00:00 /snap/snapd-desktop-integration/14/bin/snapd-desktop-integration
+gunnar      1827     760  0 14:52 ?        00:00:00 /usr/libexec/xdg-desktop-portal-gtk
+gunnar      1912     760  0 14:52 ?        00:00:00 /usr/libexec/gvfsd-metadata
+gunnar      2130     760  0 14:53 ?        00:00:00 /usr/bin/snap userd
+gunnar      2836    1297  0 14:53 ?        00:00:00 update-notifier
+gunnar      3338    1080  0 15:01 ?        00:00:00 /usr/libexec/gvfsd-network --spawner :1.2 /org/gtk/gvfs/exec_spaw/1
+gunnar      3352    1080  0 15:01 ?        00:00:00 /usr/libexec/gvfsd-dnssd --spawner :1.2 /org/gtk/gvfs/exec_spaw/3
+root        7871       2  0 17:34 ?        00:00:00 [kworker/u2:2+events_freezable_power_]
+root        8023       2  0 17:53 ?        00:00:00 [uas]
+gunnar     12810     760  0 18:01 ?        00:00:18 /snap/snap-store/582/usr/bin/snap-store --local-filename /home/gunnar/Downloads/google-chrome-stable_current_amd64.deb
+root       12888       1  0 18:01 ?        00:00:00 /usr/libexec/fwupd/fwupd
+root       13187       2  0 18:01 ?        00:00:00 [kworker/u2:4-events_unbound]
+root       13679       2  0 18:02 ?        00:00:00 [scsi_eh_3]
+root       13680       2  0 18:02 ?        00:00:00 [scsi_tmf_3]
+root       13681       2  0 18:02 ?        00:00:00 [usb-storage]
+gunnar     13749     760  0 18:03 ?        00:00:14 /usr/bin/nautilus --gapplication-service
+gunnar     13843    1315  3 18:04 ?        00:00:51 /snap/firefox/1635/usr/lib/firefox/firefox
+gunnar     13952   13843  0 18:04 ?        00:00:00 /snap/firefox/1635/usr/lib/firefox/firefox -contentproc -parentBuildID 20220730053005 -prefsLen 25383 -prefMapSize 223448 -appDir /snap/firefox/1635/usr/lib/firefox/browser 13843 true socket
+gunnar     13972   13843  0 18:04 ?        00:00:03 /snap/firefox/1635/usr/lib/firefox/firefox -contentproc -childID 1 -isForBrowser -prefsLen 25524 -prefMapSize 223448 -jsInitLen 267752 -parentBuildID 20220730053005 -appDir /snap/firefox/1635/usr/lib/firefox/browser 13843 true tab
+gunnar     14788   13843  0 18:04 ?        00:00:00 /snap/firefox/1635/usr/lib/firefox/firefox -contentproc -childID 2 -isForBrowser -prefsLen 30039 -prefMapSize 223448 -jsInitLen 267752 -parentBuildID 20220730053005 -appDir /snap/firefox/1635/usr/lib/firefox/browser 13843 true tab
+gunnar     15217   13843  0 18:04 ?        00:00:03 /snap/firefox/1635/usr/lib/firefox/firefox -contentproc -childID 5 -isForBrowser -prefsLen 30841 -prefMapSize 223448 -jsInitLen 267752 -parentBuildID 20220730053005 -appDir /snap/firefox/1635/usr/lib/firefox/browser 13843 true tab
+gunnar     15290   13843  0 18:04 ?        00:00:00 /snap/firefox/1635/usr/lib/firefox/firefox -contentproc -parentBuildID 20220730053005 -prefsLen 30841 -prefMapSize 223448 -appDir /snap/firefox/1635/usr/lib/firefox/browser 13843 true rdd
+root       15861       2  0 18:07 ?        00:00:00 [kworker/u2:3-flush-8:16]
+gunnar     15969    1080  0 18:08 ?        00:00:00 /bin/sh -c pkexec /usr/libexec/gvfsd-admin "$@" --address $DBUS_SESSION_BUS_ADDRESS --dir $XDG_RUNTIME_DIR gvfsd-admin --spawner :1.2 /org/gtk/gvfs/exec_spaw/4
+gunnar     15970   15969  0 18:08 ?        00:00:00 /usr/libexec/gvfsd-admin --spawner :1.2 /org/gtk/gvfs/exec_spaw/4 --address unix:path=/run/user/1000/bus --dir /run/user/1000
+root       15980       2  0 18:08 ?        00:00:00 [kworker/0:1-cgwb_release]
+gunnar     16606   13843  0 18:11 ?        00:00:00 /snap/firefox/1635/usr/lib/firefox/firefox -contentproc -parentBuildID 20220730053005 -sandboxingKind 1 -prefsLen 30931 -prefMapSize 223448 -appDir /snap/firefox/1635/usr/lib/firefox/browser 13843 true utility
+gunnar     17101   13843  0 18:12 ?        00:00:03 /snap/firefox/1635/usr/lib/firefox/firefox -contentproc -childID 21 -isForBrowser -prefsLen 30931 -prefMapSize 223448 -jsInitLen 267752 -parentBuildID 20220730053005 -appDir /snap/firefox/1635/usr/lib/firefox/browser 13843 true tab
+gunnar     17120   13843  0 18:12 ?        00:00:01 /snap/firefox/1635/usr/lib/firefox/firefox -contentproc -childID 22 -isForBrowser -prefsLen 30931 -prefMapSize 223448 -jsInitLen 267752 -parentBuildID 20220730053005 -appDir /snap/firefox/1635/usr/lib/firefox/browser 13843 true tab
+gunnar     17146    1315  0 18:12 ?        00:00:00 /opt/google/chrome/chrome
+gunnar     17153   17146  0 18:12 ?        00:00:00 cat
+gunnar     17154   17146  0 18:12 ?        00:00:00 cat
+gunnar     17156     760  0 18:12 ?        00:00:00 /opt/google/chrome/chrome_crashpad_handler --monitor-self --monitor-self-annotation=ptype=crashpad-handler --database=/home/gunnar/.config/google-chrome/Crash Reports --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=lsb-release=Ubuntu 22.04.1 LTS --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=110.0.5481.77 --initial-client-fd=5 --shared-client-connection
+gunnar     17158     760  0 18:12 ?        00:00:00 /opt/google/chrome/chrome_crashpad_handler --no-periodic-tasks --monitor-self-annotation=ptype=crashpad-handler --database=/home/gunnar/.config/google-chrome/Crash Reports --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=lsb-release=Ubuntu 22.04.1 LTS --annotation=plat=Linux --annotation=prod=Chrome_Linux --annotation=ver=110.0.5481.77 --initial-client-fd=4 --shared-client-connection
+gunnar     17164   17146  0 18:12 ?        00:00:00 /opt/google/chrome/chrome --type=zygote --no-zygote-sandbox --crashpad-handler-pid=17156 --enable-crash-reporter=, --change-stack-guard-on-fork=enable
+gunnar     17165   17146  0 18:12 ?        00:00:00 /opt/google/chrome/chrome --type=zygote --crashpad-handler-pid=17156 --enable-crash-reporter=, --change-stack-guard-on-fork=enable
+gunnar     17166   17165  0 18:12 ?        00:00:00 /opt/google/chrome/nacl_helper
+gunnar     17169   17165  0 18:12 ?        00:00:00 /opt/google/chrome/chrome --type=zygote --crashpad-handler-pid=17156 --enable-crash-reporter=, --change-stack-guard-on-fork=enable
+gunnar     17189   17164  0 18:12 ?        00:00:00 /opt/google/chrome/chrome --type=gpu-process --crashpad-handler-pid=17156 --enable-crash-reporter=, --change-stack-guard-on-fork=enable --gpu-preferences=WAAAAAAAAAAgAAAIAAAAAAAAAAAAAAAAAABgAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAABAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAIAAAAAAAAAA== --shared-files --field-trial-handle=0,i,6442131991022203589,14513657806618066253,131072
+gunnar     17193   17146  0 18:12 ?        00:00:00 [chrome] <defunct>
+gunnar     17217   13843  0 18:12 ?        00:00:00 /snap/firefox/1635/usr/lib/firefox/firefox -contentproc -childID 23 -isForBrowser -prefsLen 30931 -prefMapSize 223448 -jsInitLen 267752 -parentBuildID 20220730053005 -appDir /snap/firefox/1635/usr/lib/firefox/browser 13843 true tab
+root       17323       2  0 18:13 ?        00:00:00 [kworker/u2:1+flush-8:16]
+gunnar     18359   13843  0 18:16 ?        00:00:00 /snap/firefox/1635/usr/lib/firefox/firefox -contentproc -childID 24 -isForBrowser -prefsLen 30931 -prefMapSize 223448 -jsInitLen 267752 -parentBuildID 20220730053005 -appDir /snap/firefox/1635/usr/lib/firefox/browser 13843 true tab
+gunnar     18362   13843  0 18:16 ?        00:00:00 /snap/firefox/1635/usr/lib/firefox/firefox -contentproc -childID 25 -isForBrowser -prefsLen 30931 -prefMapSize 223448 -jsInitLen 267752 -parentBuildID 20220730053005 -appDir /snap/firefox/1635/usr/lib/firefox/browser 13843 true tab
+gunnar     18402   13843  0 18:16 ?        00:00:00 /snap/firefox/1635/usr/lib/firefox/firefox -contentproc -childID 26 -isForBrowser -prefsLen 30931 -prefMapSize 223448 -jsInitLen 267752 -parentBuildID 20220730053005 -appDir /snap/firefox/1635/usr/lib/firefox/browser 13843 true tab
+gunnar     18405   13843  0 18:16 ?        00:00:00 /snap/firefox/1635/usr/lib/firefox/firefox -contentproc -childID 27 -isForBrowser -prefsLen 30931 -prefMapSize 223448 -jsInitLen 267752 -parentBuildID 20220730053005 -appDir /snap/firefox/1635/usr/lib/firefox/browser 13843 true tab
+gunnar     18441   13843  0 18:16 ?        00:00:00 /snap/firefox/1635/usr/lib/firefox/firefox -contentproc -childID 28 -isForBrowser -prefsLen 30931 -prefMapSize 223448 -jsInitLen 267752 -parentBuildID 20220730053005 -appDir /snap/firefox/1635/usr/lib/firefox/browser 13843 true tab
+gunnar     19582     760  0 18:19 ?        00:00:03 /usr/libexec/gnome-terminal-server
+gunnar     19601   19582  0 18:19 pts/0    00:00:00 bash
+root       19617   19601  0 18:20 pts/0    00:00:00 sudo ./avml Ubuntu_mem.lime
+root       19618   19617  0 18:20 pts/1    00:00:00 sudo ./avml Ubuntu_mem.lime
+root       19619   19618  0 18:20 pts/1    00:00:04 ./avml Ubuntu_mem.lime
+root       19677       2  0 18:22 ?        00:00:00 [kworker/0:2-events]
+gunnar     19703    1315  0 18:25 ?        00:00:00 gjs /usr/share/gnome-shell/extensions/ding@rastersoft.com/ding.js -E -P /usr/share/gnome-shell/extensions/ding@rastersoft.com -M 0 -D 0:0:1920:1080:1:27:0:0:0:0
+gunnar     19743   19582  0 18:28 pts/2    00:00:00 bash
+root       19756       2  0 18:30 ?        00:00:00 [kworker/u2:0-events_unbound]
+gunnar     19780   19582  0 18:30 pts/3    00:00:00 bash
+root       19790       2  0 18:31 ?        00:00:00 [kworker/0:0-events]
+gunnar     19797   19582  0 18:31 pts/4    00:00:00 bash
+root       19836   19797  0 18:32 pts/4    00:00:00 sudo su
+root       19837   19836  0 18:32 pts/5    00:00:00 sudo su
+root       19838   19837  0 18:32 pts/5    00:00:00 su
+root       19839   19838  0 18:32 pts/5    00:00:00 bash
+root       19846   19839  0 18:32 pts/5    00:00:00 ps -ef
